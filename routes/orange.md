@@ -7,7 +7,7 @@ Ensemble des routes utilisées par l'application orange
 https://legacy-api-orange.afrostream.tv  (utilisé pour /api, /auth)  
 https://api-stats.afrostream.tv          (monitoring)  
 https://images.cdn.afrostream.net        (proxy imgix)  
-https://origin.cdn.afrostream.net        (plateforme video) + orange.cdn.afrostream.net  
+https://origin.cdn.afrostream.net, https://hw.cdn.afrostream.net        (plateforme video) + orange.cdn.afrostream.net  
 https://*.drmtoday.com/                  (fixme: url des drm)  
 
 # Dev
