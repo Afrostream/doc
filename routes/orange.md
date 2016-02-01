@@ -1,0 +1,35 @@
+# Description
+
+Ensemble des routes utilisées par l'application orange
+
+# Production
+
+https://legacy-api-orange.afrostream.tv  (utilisé pour /api, /auth)  
+https://api-stats.afrostream.tv          (monitoring)  
+https://images.cdn.afrostream.net        (proxy imgix)  
+https://origin.cdn.afrostream.net        (plateforme video)  
+https://*.drmtoday.com/                  (fixme: url des drm)  
+
+# Dev
+
+https://legacy-api-orange-staging.afrostream.tv  
+https://api-stats-staging.afrostream.tv  
+https://images-staging.cdn.afrostream.net  
+https://origin.cdn.afrostream.net        (plateforme video, identique a la prod)  
+https://*.drmtoday.com/                  (fixme: url des drm staging)  
+
+# Remarques
+
+- le dev de wiztv sera notre staging  
+- le dev nécessite la création de :  
+   legacy-api-orange-staging.afrostream.tv  
+   api-stats-staging.afrostream.tv  
+   proxy d'images  
+- la prod nécessite   
+   passage sur highwinds  
+   proxy d'images  
+- futur :  
+  https://auth-screens.afrostream.tv  (verouillage par ecran)  
+  https://auth-geo.afrostream.tv      (deplacement de l'auth geographique)  
+
+   
