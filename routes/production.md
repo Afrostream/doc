@@ -229,10 +229,9 @@ origin: afr-auth-geo.herokuapp.com
 
 #### config
 
-fqdn: api-stats.afrostream.tv  
+fqdn: afrostream-jobs.afrostream.tv  
 protocol: https  
-cdn: FIXME  
-origin: afr-auth-screens.herokuapp.com  
+cdn: N/A
 
 #### network
 
@@ -244,11 +243,12 @@ origin: afr-auth-screens.herokuapp.com
 
 #### notes
 
-[ NOT YET IMPLEMENTED ]
+GUI: https://afrostream-jobs.afrostream.tv/api
+login: afrostream
+password: https://github.com/Afrostream/afrostream-jobs/blob/master/config/environment/production.js#L11
 
 #### futur
 
-fqdn: auth-screens.afrostream.tv  
+fqdn: afrostream-jobs.afrostream.tv  
 protocol: https  
-cdn: FIXME  
-origin: afr-auth-screens.herokuapp.com  
+cdn: N/A
