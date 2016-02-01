@@ -231,7 +231,7 @@ origin: afr-auth-geo.herokuapp.com
 
 fqdn: afrostream-jobs.afrostream.tv  
 protocol: https  
-cdn: N/A
+cdn: N/A  
 
 #### network
 
@@ -243,9 +243,9 @@ cdn: N/A
 
 #### notes
 
-GUI: https://afrostream-jobs.afrostream.tv/api
-login: afrostream
-password: https://github.com/Afrostream/afrostream-jobs/blob/master/config/environment/production.js#L11
+GUI: https://afrostream-jobs.afrostream.tv/api  
+login: afrostream  
+password: https://github.com/Afrostream/afrostream-jobs/blob/master/config/environment/production.js#L11  
 
 #### futur
 
