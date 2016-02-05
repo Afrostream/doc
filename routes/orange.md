@@ -16,8 +16,11 @@ https://*.drmtoday.com/                  (fixme: url des drm)
 # Dev
 
 https://legacy-api-orange-staging.afrostream.tv  
+  origine: https://afr-back-end-staging.herokuapp.com  
 https://api-stats-staging.afrostream.tv  
+  origine: https://afr-api-stats-staging.herokuapp.com  
 https://images-staging.cdn.afrostream.net  
+  origine: https://afrostream.imgix.net  
 https://origin.cdn.afrostream.net        (plateforme video, identique a la prod)  
 https://*.drmtoday.com/                  (fixme: url des drm staging)  
 
