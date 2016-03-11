@@ -38,4 +38,9 @@ https://*.drmtoday.com/                  (fixme: url des drm staging)
   https://auth-screens.afrostream.tv  (verouillage par ecran)  
   https://auth-geo.afrostream.tv      (deplacement de l'auth geographique)  
 
+# Accès Wiki OTVP
+URL : https://otis.orange-labs.fr
+Login : ludovic.bostral
+Password : Vh6D5ySQjuqdMDNL
+
    
