@@ -33,6 +33,7 @@ var containerId = process.env.DYNO && String(process.env.DYNO).replace(/\./g, '-
 ## workerId
 
 identifiant du process
+Attention: il faut que cet identifiant soit dans une liste fermée d'éléments (ex: max=16), si impossible => on met 0.  
 
 sous nodejs @see https://github.com/Afrostream/afrostream-node-statsd/blob/master/index.js#L12
 
